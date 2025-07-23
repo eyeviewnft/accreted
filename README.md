@@ -1,5 +1,3 @@
-# accreted
-
 # Accreted: AI-Powered Universe Building
 
 Welcome to Accreted – a collaborative project to create a universe system by system and planet by planet using AI-generated text descriptions. Think of it as vibe coding for cosmology: relaxed, creative, and community-driven. Users contribute by adding folders for planets, sharing AI prompts, and expanding the lore.
